@@ -1,15 +1,6 @@
-/* 
-<div class="head">
-    <img src="img/teacher.png" width="100" height="100"/>
-    
-    <p>MUHAMMAD ZUBAIR ISLAM<br>
-    <a href="mailto:hoyeom1269@naver.com"><i>hoyeom1269@naver.com</i></a><br>
-    <b>+82 10 3110 4032</b><br>
-    Sejong University Seoul, South Korea</p>
-    
-    <img src="img/sju-log.png"width="100" height="100"/>
-
-    </div> */
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
 .head{
     display: flex;
     max-width: 700px;
