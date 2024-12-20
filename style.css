@@ -1,0 +1,107 @@
+/* 
+<div class="head">
+    <img src="img/teacher.png" width="100" height="100"/>
+    
+    <p>MUHAMMAD ZUBAIR ISLAM<br>
+    <a href="mailto:hoyeom1269@naver.com"><i>hoyeom1269@naver.com</i></a><br>
+    <b>+82 10 3110 4032</b><br>
+    Sejong University Seoul, South Korea</p>
+    
+    <img src="img/sju-log.png"width="100" height="100"/>
+
+    </div> */
+.head{
+    display: flex;
+    max-width: 700px;
+    margin: 0 auto;
+    background-color: antiquewhite;
+    align-items: center;
+}
+.head .sejong{
+    padding-left: 200px;
+}
+.first{
+    max-width: 700px;
+    margin: 0 auto;
+    background-color: lightgoldenrodyellow;
+    margin-top:10px;
+    border: 2px dashed yellow
+}
+.first .edu{
+    background-color:antiquewhite;
+    font-size: 12px;
+    font-weight: bold;
+    
+}
+.first .m1{
+    font-style: oblique;
+    background-color: aquamarine;
+}
+.first .content{
+    margin-top: 10px;
+}
+.content .bs{
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+.first .m2{
+    font-style: oblique;
+    background-color: aquamarine;
+}
+.first .content2{
+    margin-top: 10px;
+}
+.content .bs2{
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+.first .m3{
+    font-style: oblique;
+    background-color: aquamarine;
+}
+.first .content3{
+    margin-top: 10px;
+}
+.content .bs3{
+    padding-top:10px;
+    padding-bottom:10px;
+}
+.second{
+    max-width: 700px;
+    margin: 0 auto;
+    background-color: lightblue;
+    margin-top:10px;
+    border: 2px dashed yellow
+}
+
+.second .edu2{
+    background-color:antiquewhite;
+    font-size: 12px;
+    font-weight: bold;
+    
+}
+
+.second .content{
+    margin-top: 10px;
+}
+
+
+.third{
+    max-width: 700px;
+    margin: 0 auto;
+    background-color: lightgray;
+    margin-top:10px;
+    border: 2px dashed yellow
+}
+.third .edu2{
+    background-color:antiquewhite;
+    font-size: 12px;
+    font-weight: bold;
+    
+}
+
+.third .content{
+    margin-top: 10px;
+}
